@@ -1,0 +1,42 @@
+1.New file খুলতে:
+￼
+￼
+
+2. Visual to git hub
+
+ a. git init
+ b.git add .
+c.git commit -m"any sentence"
+d.এবার একটা ইমেইল এড্রেস দেখবো visual studio code এ।সেখানে আমার এড্রেস দেবো
+e.ইমেইল এড্রেস এর নিচেই দেখবো your name দেওয়া ,সেখানে আমার নাম দেবো (d,e করা হয় নতুন ডিভাইসের জন্য)
+f.এবার আবার c নম্বর টাই টাইপ করবো
+g. 
+￼
+h.git push -u origin master
+
+3.git hub edit:
+ a.git pull
+ b.git add .
+  c.git commit -m"any sentence"
+d. git push
+
+4. Publish your website by github
+a.
+￼
+b.
+￼
+c.
+￼
+d. একটা লিংক পাবো।সেখানে ক্লিক করে আমার ওয়েবসাইট দেখতে পারবো।তবে wedbsite টি পুরোপুরি কমপ্লিট না দেখালে নিচের স্টেপ follow korbo:
+
+i. Pull request এ যাবো
+ii. master to gh-pages করবো
+Iii. Create pull request ক্লিক করবো
+iv.marge করবো
+v. এবার লিঙ্ক এ ক্লিক করবো
+vi. Inspect করবো
+
+e. Git hub থেকে লোকাল ফাইলে রিসোর্স ক্লোন
+i.cmd তে যাবো
+Ii.system32>cd    "\file location" (যে ফাইল নিবো)
+iii.git clone  link
